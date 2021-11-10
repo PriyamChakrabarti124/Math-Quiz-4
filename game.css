@@ -1,0 +1,42 @@
+#body
+{
+	background:url(back.jpg);
+}
+
+	.login_div1 , .login_div2
+	{
+		background:url(images1.jpg);
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#name_points1 , #name_points2{
+	padding-left: 20px;
+}
+#points1 , #points2{
+	padding-left: 20px;
+}
